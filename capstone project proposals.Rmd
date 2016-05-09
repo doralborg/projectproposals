@@ -1,0 +1,48 @@
+---
+title: "Capstone Project Proposals"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+## Proposal 1
+
+Investigating the correlation between mega storms occurences and the rise in water surface temperature.
+
+Datasets:
+ 
+    
+
+
+* NCDC Storm Events Database
+    + http://catalog.data.gov/dataset/ncdc-storm-events-database
+* NOAA Climate Data Record of Sea Surface Temperature
+    + http://catalog.data.gov/dataset/noaa-climate-data-record-cdr-of-sea-surface-temperature-whoi-version-1-0
+
+
+## Proposal 2
+
+Investigating the effect of social media on SAT results in NYC
+
+Datasets:
+
+
+* NYC social media usage
+    + http://catalog.data.gov/dataset/nyc-social-media-usage-555a2
+* SAT results in 2010/2012
+    + http://catalog.data.gov/dataset/sat-college-board-2010-school-level-results-5c6d6
+    + http://catalog.data.gov/dataset/sat-results-e88d7
+
+
+## Proposal 3
+
+Kaggle Competition: Predict where a new guest will book thie first holiday experience on Airbnb
+
+https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
+
+
+.
